@@ -1,22 +1,21 @@
 ============================
 
 License identifier: 
-  Apache-
-
-Components: 
- COMPONENT: tokenizers
- COPYRIGHT: 
-
-License text: 
-
-
-
-============================
-
-License identifier: 
   Apache-2.0
 
 Components: 
+ COMPONENT: tokenizers
+ COPYRIGHT:
+
+ COMPONENT: sentencepiece
+ COPYRIGHT: • Google Inc. (2018-2018)
+
+ COMPONENT: accelerate
+ COPYRIGHT:
+
+ COMPONENT: huggingface-hub
+ COPYRIGHT:
+
  COMPONENT: lmms-engine
  COPYRIGHT: 
 
@@ -218,25 +217,6 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
-
-============================
-
-License identifier: 
-  Apache-unspecified
-
-Components: 
- COMPONENT: sentencepiece
- COPYRIGHT: • Google Inc. (2018-2018)
-
- COMPONENT: accelerate
- COPYRIGHT: 
-
- COMPONENT: huggingface-hub
- COPYRIGHT: 
-
-License text: 
-
-
 
 ============================
 
